@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+   
+}
+
+* {   
+    font-family: 'Noto Sans Arabic', sans-serif; 
+}
+
+.carro-1 {
+    height: 100px;
+}
+
+.c-height {
+    height: 550px;
+}
+
+.i-height {
+    height: 100%;
+    object-fit:cover;
+}
